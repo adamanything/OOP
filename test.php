@@ -1,2 +1,2 @@
-<?php echo 'testing'; ?>
+<?php echo 'testing git'; ?>
 
